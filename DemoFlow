@@ -8,6 +8,8 @@ kubectl config get-contexts
 #Explain the diffrent types of filters on the left side:
 #Containers/Helm Chart Etc..
 #Add New Application (Explain that this will not initaite new build, because this is Demo Env). and complete the creation, until you will get the message that this is demo account.
+
+
 #Navigate to helm carts filter and choose one of the helmchart to show the detailes.
 kubectl get ns #show the kubeapps ns that was created
 #*******************************************************************************************
